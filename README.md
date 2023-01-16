@@ -16,11 +16,11 @@ This should be a collection of gif's from chess.com primarily from matches I hav
 
 <br><hr><br>
 
-<img alt="JohnnyZFlex" width="340" src="https://github.com/Danielkaas94/TheChessSpeaksForItself/blob/main/TheChessGifCollection/WIN%20%F0%9F%A5%87/JohnnyZFlex.gif?raw=true">
+<img alt="JohnnyZFlex" width="340" src="https://github.com/Danielkaas94/TheChessSpeaksForItself/blob/main/TheChessGifCollection/WIN%20%F0%9F%A5%87/2023/JohnnyZFlex.gif?raw=true">
 
 <br><hr><br>
 
-<img alt="joaollopes" width="340" src="https://github.com/Danielkaas94/TheChessSpeaksForItself/blob/main/TheChessGifCollection/WIN%20%F0%9F%A5%87/joaollopes.gif?raw=true">
+<img alt="joaollopes" width="340" src="https://github.com/Danielkaas94/TheChessSpeaksForItself/blob/main/TheChessGifCollection/WIN%20%F0%9F%A5%87/2023/joaollopes.gif?raw=true">
 
 <br><hr><br>
 
