@@ -1,4 +1,10 @@
-# ♟ The Chess Speaks for Itself ♟
+<div align="center">
+
+# [♟ The Chess Speaks for Itself ♟](https://youtu.be/fxe0o2pCGwo?t=30)
+
+</div>
+
+
 
 This should be a collection of gif's from chess.com primarily from matches I have played.
 
@@ -6,6 +12,10 @@ This should be a collection of gif's from chess.com primarily from matches I hav
 
 
 <div align="center">
+
+<img alt="StandingSheep" width="340" src="https://github.com/Danielkaas94/TheChessSpeaksForItself/blob/main/TheChessGifCollection/WIN%20%F0%9F%A5%87/2023/StandingSheep.gif?raw=true">
+
+<br><hr><br>
 
 <img alt="galeto2" width="340" src="https://github.com/Danielkaas94/TheChessSpeaksForItself/blob/main/TheChessGifCollection/WIN%20%F0%9F%A5%87/galeto2.gif?raw=true">
 
