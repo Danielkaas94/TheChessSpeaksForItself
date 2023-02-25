@@ -13,6 +13,10 @@ This should be a collection of gif's from chess.com primarily from matches I hav
 
 <div align="center">
 
+<img alt="ERFAN8417" width="340" src="https://github.com/Danielkaas94/TheChessSpeaksForItself/blob/main/TheChessGifCollection/WIN%20%F0%9F%A5%87/2023/ERFAN8417.gif?raw=true">
+
+<br><hr><br>
+
 <img alt="StandingSheep" width="340" src="https://github.com/Danielkaas94/TheChessSpeaksForItself/blob/main/TheChessGifCollection/WIN%20%F0%9F%A5%87/2023/StandingSheep.gif?raw=true">
 
 <br><hr><br>
