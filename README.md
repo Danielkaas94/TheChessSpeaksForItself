@@ -8,7 +8,12 @@
 
 This should be a collection of gif's from chess.com primarily from matches I have played.
 
+<div align="center">
 ♟ The Chess Speaks for Itself ♟
+
+[<img width="250" src="https://thezugzwangblog.com/wp-content/uploads/2017/09/chess-com-logo.png">](https://www.chess.com/member/danielkaas94) 
+
+</div>
 
 
 <div align="center">
