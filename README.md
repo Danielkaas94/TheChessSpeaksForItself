@@ -37,6 +37,18 @@ This should be a collection of gif's from chess.com primarily from matches I hav
 
 # Chess GIF's 📺
 
+<img alt="ERFAN8417" width="340" src="https://github.com/Danielkaas94/TheChessSpeaksForItself/blob/main/TheChessGifCollection/WIN%20%F0%9F%A5%87/2023/khalidd42.gif?raw=true">
+
+> khalidd4 2️⃣
+
+<br><hr><br>
+
+<img alt="ERFAN8417" width="340" src="https://github.com/Danielkaas94/TheChessSpeaksForItself/blob/main/TheChessGifCollection/WIN%20%F0%9F%A5%87/2023/khalidd4.gif?raw=true">
+
+> khalidd4 1️⃣
+
+<br><hr><br>
+
 <img alt="ERFAN8417" width="340" src="https://github.com/Danielkaas94/TheChessSpeaksForItself/blob/main/TheChessGifCollection/WIN%20%F0%9F%A5%87/2023/ERFAN8417.gif?raw=true">
 
 > ERFAN8417
