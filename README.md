@@ -39,26 +39,42 @@ This should be a collection of gif's from chess.com primarily from matches I hav
 
 <img alt="ERFAN8417" width="340" src="https://github.com/Danielkaas94/TheChessSpeaksForItself/blob/main/TheChessGifCollection/WIN%20%F0%9F%A5%87/2023/ERFAN8417.gif?raw=true">
 
+> ERFAN8417
+
 <br><hr><br>
 
 <img alt="StandingSheep" width="340" src="https://github.com/Danielkaas94/TheChessSpeaksForItself/blob/main/TheChessGifCollection/WIN%20%F0%9F%A5%87/2023/StandingSheep.gif?raw=true">
 
+> StandingSheep
+
 <br><hr><br>
 
 <img alt="galeto2" width="340" src="https://github.com/Danielkaas94/TheChessSpeaksForItself/blob/main/TheChessGifCollection/WIN%20%F0%9F%A5%87/galeto2.gif?raw=true">
+
+> galeto2
+
 
 <br><hr><br>
 
 
 <img alt="madskop1" width="340" src="https://github.com/Danielkaas94/TheChessSpeaksForItself/blob/main/TheChessGifCollection/WIN%20%F0%9F%A5%87/madskop1.gif?raw=true">
 
+> madskop1
+
+
 <br><hr><br>
 
 <img alt="JohnnyZFlex" width="340" src="https://github.com/Danielkaas94/TheChessSpeaksForItself/blob/main/TheChessGifCollection/WIN%20%F0%9F%A5%87/2023/JohnnyZFlex.gif?raw=true">
 
+> JohnnyZFlex
+
+
 <br><hr><br>
 
 <img alt="joaollopes" width="340" src="https://github.com/Danielkaas94/TheChessSpeaksForItself/blob/main/TheChessGifCollection/WIN%20%F0%9F%A5%87/2023/joaollopes.gif?raw=true">
+
+> joaollopes
+
 
 <br><hr><br>
 
