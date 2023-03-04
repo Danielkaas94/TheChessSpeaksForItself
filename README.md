@@ -17,6 +17,20 @@ This should be a collection of gif's from chess.com primarily from matches I hav
 
 </div>
 
+<hr>
+
+<div align="center">
+
+# Chess Video 🎥🎬📺!
+[![First time recording myself, while playing chess. Blunder = Sip of Carlsberg 🍺](https://img.youtube.com/vi/lfXJUnyypgk/maxresdefault.jpg)](https://youtu.be/lfXJUnyypgk)
+>First time recording myself, while playing chess. Blunder = Sip of Carlsberg 🍺
+
+</div>
+
+
+<hr>
+
+
 <br>
 
 <div align="center">
