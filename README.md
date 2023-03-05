@@ -115,6 +115,9 @@ This should be a collection of gif's from chess.com primarily from matches I hav
 
 # ♟ Chess Music 🔊🎵🎶 ♟
 
+<img alt="Chess Music 🔊🎵" width="430" src="https://github.com/Danielkaas94/TheChessSpeaksForItself/blob/main/TheChessGifCollection/chessMusic.jpg?raw=true" >
+
+
 ## [WIN Chess - Chess Music CHECKMATE for Focus and Concentration](https://youtu.be/QB-jgreIKDs)
 
 <br>
