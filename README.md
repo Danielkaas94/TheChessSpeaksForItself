@@ -125,4 +125,8 @@ This should be a collection of gif's from chess.com primarily from matches I hav
 
 ### [Harry Potter - The Chess Game](https://youtu.be/MDwR6YZCBIA)
 
+<br>
+
+### [Genesis - The Knife 🔪♟](https://youtu.be/v719eZmXRdE)
+
 </div>
