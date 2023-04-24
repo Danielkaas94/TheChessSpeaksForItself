@@ -136,4 +136,8 @@ This should be a collection of gif's from chess.com primarily from matches I hav
 
 ## [Destiny Into Darkness 🔜🌑](https://youtu.be/ff5QLigWj2Q)
 
+<br>
+
+## [Every Piece Matters ♟🧩](https://youtu.be/RggRFyVUiZA)
+
 </div>
