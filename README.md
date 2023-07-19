@@ -118,15 +118,15 @@ This should be a collection of gif's from chess.com primarily from matches I hav
 <img alt="Chess Music 🔊🎵" width="430" src="https://github.com/Danielkaas94/TheChessSpeaksForItself/blob/main/TheChessGifCollection/chessMusic.jpg?raw=true" >
 
 
-## [WIN Chess - Chess Music CHECKMATE for Focus and Concentration](https://youtu.be/QB-jgreIKDs)
+## [WIN Chess - Chess Music CHECKMATE for Focus and Concentration 🧠🧘‍♂️](https://youtu.be/QB-jgreIKDs)
 
 <br>
 
-## [Medieval 2 Total War + Kingdoms Soundtrack](https://youtu.be/2OpslzaNlxc?t=1486)
+## [Medieval 2 Total War + Kingdoms Soundtrack 🛡️](https://youtu.be/2OpslzaNlxc?t=1486)
 
 <br>
 
-## [Harry Potter - The Chess Game](https://youtu.be/MDwR6YZCBIA)
+## [Harry Potter - The Chess Game 🧙‍♂️🤓⚡♟️](https://youtu.be/MDwR6YZCBIA)
 
 <br>
 
