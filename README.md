@@ -33,9 +33,16 @@ This should be a collection of gif's from chess.com primarily from matches I hav
 
 <br>
 
+
+
+
 <div align="center">
 
 # Chess GIF's 📺
+
+<details>
+
+<summary>Show GIF's</summary>
 
 <img alt="ShubhuLesixaxa" width="340" src="https://github.com/Danielkaas94/TheChessSpeaksForItself/blob/main/TheChessGifCollection/WIN%20%F0%9F%A5%87/2023/ShubhuLesixaxa3.gif?raw=true">
 
@@ -110,6 +117,13 @@ This should be a collection of gif's from chess.com primarily from matches I hav
 <br><hr><br>
 
 </div>
+
+
+</details>
+
+
+<br><hr><br>
+
 
 <div align="center">
 
