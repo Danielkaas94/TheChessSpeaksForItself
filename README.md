@@ -11,9 +11,20 @@ This should be a collection of gif's from chess.com primarily from matches I hav
 
 ♟ The Chess Speaks for Itself ♟
 
+[<img width="300" src="https://thezugzwangblog.com/wp-content/uploads/2017/09/chess-com-logo.png">](https://www.chess.com/member/danielkaas94)
+
+</div>
+
+
 <br>
 
-[<img width="250" src="https://thezugzwangblog.com/wp-content/uploads/2017/09/chess-com-logo.png">](https://www.chess.com/member/danielkaas94) 
+<div align="center">
+
+<img width="250" src="https://github.com/Danielkaas94/TheChessSpeaksForItself/blob/main/GreatMove.jpeg?raw=true">
+
+<img width="250" src="https://github.com/Danielkaas94/TheChessSpeaksForItself/blob/main/Outplayed.png?raw=true">
+
+
 
 </div>
 
