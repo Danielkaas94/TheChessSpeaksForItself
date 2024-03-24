@@ -181,4 +181,8 @@ This should be a collection of gif's from chess.com primarily from matches I hav
 
 ## [Hitman Codename 47 - Main Title 👨‍💼](https://youtu.be/J4ossube1m4)
 
+<br>
+
+## [🩸💰🩸 Jesper Kyd - Vegas (Hitman: Blood Money) 🩸💰🩸](https://youtu.be/xuJonyx9Zuo)
+
 </div>
