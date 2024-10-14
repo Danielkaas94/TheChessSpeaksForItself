@@ -24,7 +24,7 @@ This should be a collection of gif's from chess.com primarily from matches I hav
 
 <img width="250" src="https://github.com/Danielkaas94/TheChessSpeaksForItself/blob/main/Outplayed.png?raw=true">
 
-
+### [♟️ Every Chess Tip Explained In 10 Minutes ♟️](https://www.youtube.com/watch?v=Reza8udb47Y)
 
 </div>
 
