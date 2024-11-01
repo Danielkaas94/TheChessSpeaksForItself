@@ -189,4 +189,8 @@ This should be a collection of gif's from chess.com primarily from matches I hav
 
 ## [🛸🌾🌾👽 Signs - The Hand of Fate, pt. I 👽🌾🌾🛸](https://www.youtube.com/watch?v=DW5MLRSjehI)
 
+<br>
+
+## [🙈🙉🙊 Kevin MacLeod: Monkeys Spinning Monkeys 🙈🙉🙊](https://www.youtube.com/watch?v=mWo3woi9Uro)
+
 </div>
