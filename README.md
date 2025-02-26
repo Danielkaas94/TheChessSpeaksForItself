@@ -193,4 +193,8 @@ This should be a collection of gif's from chess.com primarily from matches I hav
 
 ## [🙈🙉🙊 Kevin MacLeod: Monkeys Spinning Monkeys 🙈🙉🙊](https://www.youtube.com/watch?v=mWo3woi9Uro)
 
+<br>
+
+## [Soulsavers - Unbalanced Pieces](https://youtu.be/DS3UmyOA-u4?si=n_FOzsuGblUtY8hh)
+
 </div>
